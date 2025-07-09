@@ -61,3 +61,22 @@ EcoFarmX uses low-cost IoT sensors (ESP32, soil moisture, temperature, and humid
 - Reduces excessive water usage by alerting moisture status
 - Promotes sustainable farming practices
 - Increases yield while conserving natural resources
+
+---
+
+## 📝 Submission Details
+- 👤 **Participant**: Champia MN
+- 🧠 **Project Name**: EcoFarmX
+- 🏆 **Event**: Digigreen National Hackathon 2025
+
+---
+
+## 📽️ Demo Video
+- [Watch demo Video]()
+
+---
+
+ ## 🔧 Firebase Setup
+- Enable Authentication (email/password)
+- Set up Realtime Database / Firestore
+- Add your Firebase config to `firebase_options.dart`
