@@ -34,3 +34,6 @@ EcoFarmX uses low-cost IoT sensors (ESP32, soil moisture, temperature, and humid
 
 ### 3️⃣ DahBoard Page
 ![DashBoard Page](https://raw.githubusercontent.com/Champia-MN/EcoFarmX-Digigreen/main/DashBoard_Page.jpg)
+
+### 4️⃣ Realtime Data
+![Realtime Data](https://raw.githubusercontent.com/Champia-MN/EcoFarmX-Digigreen/main/Realtime_data.jpg)
