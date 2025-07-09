@@ -46,3 +46,18 @@ EcoFarmX uses low-cost IoT sensors (ESP32, soil moisture, temperature, and humid
 
 ### 7️⃣ Settings Page
 ![Settings Page](https://raw.githubusercontent.com/Champia-MN/EcoFarmX-Digigreen/main/Settings_Page.jpg)
+
+---
+
+## 🧠 Innovation Highlights
+- Live data monitoring from farm to phone 📲
+- Solar-powered hardware for eco-sustainability ☀️
+- Scalable for small and large farms 🌾
+- Easy-to-use interface for non-tech farmers 👨‍🌾
+
+---
+
+## 🌱 Environmental Impact
+- Reduces excessive water usage by alerting moisture status
+- Promotes sustainable farming practices
+- Increases yield while conserving natural resources
